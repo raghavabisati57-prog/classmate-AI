@@ -1,0 +1,6 @@
+{
+  "name": "ClassMate AI",
+  "description": "College lecture-recovery platform helping students catch up on missed classes with notes, assignments, weekly catch-up planner, and AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
